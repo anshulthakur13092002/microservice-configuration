@@ -7,3 +7,8 @@ eureka:
       register-with-eureka: true
       service-url:
         defaultZone: http://localhost:8012/eureka
+
+        
+spring:
+  application:
+    name: API-GATE
