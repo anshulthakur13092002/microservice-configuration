@@ -1,8 +1,4 @@
-server:
-  port: 8099
-spring:
-  application:
-    name: API-GATEWAY1
+
 
 
 eureka:
