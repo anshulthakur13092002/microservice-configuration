@@ -2,7 +2,7 @@ server:
   port: 8099
 spring:
   application:
-    name: API-GATEWAY
+    name: API-GATEWAY1
 
 
 eureka:
